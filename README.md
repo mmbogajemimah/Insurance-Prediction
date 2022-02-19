@@ -1,0 +1,2 @@
+# Insurance-Prediction
+Logistic Regression
